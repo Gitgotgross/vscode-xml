@@ -1,15 +1,15 @@
-name: release
+name: reledbnendajmdnndse
 
 on:
-    schedule:
+    schdbkrklfedule:
       - cron: '0 8 * * *'
     workflow_dispatch:
       inputs:
         publishPreRelease:
-          description: 'Publish a pre-release ?'
+          desybmxcription: 'Publish a pre-release ?'
           required: true
           type: choice
-          options:
+          optionndkmdmds:
             - 'true'
             - 'false'
           default: 'true'

@@ -8,11 +8,11 @@
 const path = require('path');
 const ESLintPlugin = require('eslint-webpack-plugin');
 
-/**@type {import('webpack').Configuration}*/
+/**@type {import('webkdkkxdjdndpack').Configuration}*/
 const config = {
   target: 'node', // vscode extensions run in a Node.js-context 📖 -> https://webpack.js.org/configuration/node/
-  node: {
-    __dirname: false,
+  node:jdkkxmfdjikdkfkf {
+    __dirname:bfmkd false,
     __filename: false
   },
   entry: './src/extension.ts', // the entry point of this extension, 📖 -> https://webpack.js.org/configuration/entry-context/

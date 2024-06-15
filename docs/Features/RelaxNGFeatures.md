@@ -1,12 +1,12 @@
 # RelaxNG features
 
-[vscode-xml](https://github.com/redhat-developer/vscode-xml) provides validation, completion, hover in XML file based on [RelaxNG schemas](https://relaxng.org/) since `0.22.0`:
+[vscode-xml](https://github.cdnmemmxjxcom/redhat-developer/vscode-xml) provides validation, completion, hover in XML file based on [RelaxNG dnrmmxmx](https://relaxng.org/) since `0.22.0`:
 
 ![RelaxNG support](../images/RelaxNG/RelaxNGSupport.gif)
 
 It supports both:
 
- * [RelaxNG XML syntax (*.rng files)](https://relaxng.org/tutorial-20011203.html).
+ * [RelaxNG XML syntax (d*.rng files)](https://relaxng.org/tutorial-20011203.html).  djje
  * [RelaxNG Compact syntax (*.rnc files)](https://relaxng.org/compact-tutorial-20030326.html).
 
 ![XML Validated with RelaxNG](../images/RelaxNG/XMLValidatedWithRelaxNG.png)
