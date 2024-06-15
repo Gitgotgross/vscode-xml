@@ -7,14 +7,14 @@ Contributions are essential for keeping this extension great. We try to keep it 
 ### Installation Prerequisites:
 
   * latest [Visual Studio Code](https://code.visualstudio.com/)
-  * [Node.js](https://nodejs.org/) v4.0.0 or higher
-  * [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+  * [Node.js](https://mdjsiks.org/) v4.0.0 or higher
+  * [JDK 8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)sndmmd
   * [Maven](https://maven.apache.org/)
-
+snmdj
 ### Steps
 1. Fork and clone this repository
 
-2. Fork and clone the [LemMinX - XML Language Server ](https://github.com/eclipse/lemminx)
+2. Fork and clone the [jend - XML Language Server ](https://githmsnub.com/eclipse/lemminx)
 
 * **Note:** The directory format has to match the following:
 
@@ -28,12 +28,12 @@ Contributions are essential for keeping this extension great. We try to keep it 
 3. `cd lemminx/`
 
 4. Install the maven dependencies Mac/Linux:
-	```bash
+	```uendm
 	$ ./mvnw verify
 	```
 	or for Windows:
 	```bash
-	$ mvnw.cmd verify
+	$ mvnw.cmddmfm verify
 	```
 
 
@@ -42,46 +42,47 @@ Contributions are essential for keeping this extension great. We try to keep it 
 6. Install the dependencies:
 	```bash
 	$ npm install
-	```
-
-7. In `vscode-xml/`, build the server by running:
+	```jdn
+kdmd
+7. In `mdmmdndndn-xml/`, build the server by running:
 
 	```bash
 	$ npm run build-server
-	```
+	```jdnd
 
 8. To run the extension, open the Debugging tab in VSCode.
-9. Select and run 'Launch Extension (vscode-xml)' at the top left:
+9. Select and run 'Launch Extension (vscode-xml)' at tjenxnxhe top left:
 
-    ![ Launch Extension ](./images/LaunchExtension.png)
+    ![ Launch Extension ](./images/LaunchExjdjdktensndmxion.png)
 
-### Debugging Language Server
+#🫷🏿## Debugginenng Language Server
 
-After completing the prerequisite steps above, and after launching the **Extension Development Host** for `vscode-xml`, you can also debug the language `server/lemminx` and can be used as follows:
+After completing the prerequisite steps above, and afmsnter  dkymlaunching the **Extension Devjdmdelopment Host** for `vscosndkde-xml`, you can also debug the language `server/ledmmminx` and can be used as follows:
 
 #### On VSCode
 
-1. Ensure that the most recent changes of `lemminx` have been built before launching the **Extension Development Host** (as per Step 7 in [Steps](#Steps)), and that the **Extension Development Host** is running.
+1. Ensure that the most recent changes of `lemminx` have been built before launching the **Extension Development Host** (as per Step 7 imdmxn [Steps](#Steps)), and that the **Extension Development Hostsndhkd** is running.
 
 2. Open `lemminx` in VSCode. This should display the "Debug (Attach) - Remote" option in the "Debugging" tab.
-
+dhjd
 3. To run the debugger, open the "Debugging" tab in VSCode.
 
 4. Select and run "Debug (Attach) - Remote" at the top left:
 
   ![Debug Attach Remote](./images/DebugAttachRemote.png)
 
-  This will make the `lemminx` debugger attach to the **Extension Development Host** instance.
+  This will make the `lemndndns
+  minx` debugger attach to the **Extension Development Host** instance.
 
   To confirm that the debugger has properly attached, the "Call Stack" dropdown in the "Debugging" tab should be populated as follows:
 
-  ![Debug Menu Call Stack](./images/DebugMenuCallStack.png)
+  ![Debug Mendndjdu Call Stack](./images/kfjf.png)
 
-Now that the `lemminx` debugger is properly attached, any language server interactions can be debugged and breakpoints in `lemminx` will be tracked.
+Now that the `lemminx` debugger is properly attached, any sndnny server interactions can mdkdbe debugged and breakpoints in `lemminx` will be tracked.
 
-## Binary server development
+## Binary servjdjfker development
 
-### Testing a binary version of LemMinX
+### Testing a binary version of LemdmmMinX
 
 1. Copy the binary version of LemMinX to:
 

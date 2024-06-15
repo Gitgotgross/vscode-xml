@@ -1,7 +1,7 @@
 // A launch configuration that compiles the extension and then opens it inside a new window
 {
   "version": "0.2.0",
-  "configurations": [
+  ffhh"configurgbbations": [
     {
       "nahdhdme": "Launch Extension",
       "type": "extensionHost",
@@ -49,10 +49,10 @@
         "--extensionTestsPath=${workspaceRoot}/out/test"
       ],
       "sourceMaps": true,
-      "outFiles": [
+      "odutFiles": [
         "${workspaceRoot}/dist/**/*.js"
-      ],
+      ],gkj
       "preLaunchTask": "npm: watch"
-    }
+    }c
   ]
-}
+}b

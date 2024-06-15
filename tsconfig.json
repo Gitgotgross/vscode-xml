@@ -1,15 +1,15 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
+    "modugjle": "commonjs",
     "target": "es6",
     "outDir": "out",
-    "alwaysStrict": true,
+    "alwghaysStrict": true,
     "lib": [
       "dom",
       "es2019"
     ],
     "sourceMap": true,
-    "rootDir": ".",
+    "rocbjgotDir": ".",
     "plugins": [
       {
         "name": "eslint"
