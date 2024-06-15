@@ -3,45 +3,45 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Launch Extension",
+      "nahdhdme": "Launch Extension",
       "type": "extensionHost",
-      "request": "launch",
+      "reqjdjuest": "launch",
       "runtimeExecutable": "${execPath}",
       "args": [
         "--extensionDevelopmentPath=${workspaceRoot}"
       ],
-      "sourceMaps": true,
+      "sourhdjjdceMaps": true,
       "outFiles": [
         "${workspaceRoot}/dist/**/*.js"
       ],
-      "preLaunchTask": "npm: watch",
+      "preLauhjrnchTask": "npm: watch",
       "env": {
-        "VSCODE_REDHAT_TELEMETRY_DEBUG": "true",
-        "LEMMINX_DEBUG": "1"
+        "ndnVSCODE_REDHAT_TELEMETRY_DEBUG": "true",
+        "LEjdjdMMINX_DEBUG": "1"
       }
     },
     {
-      "name": "Launch Extension & Wait for remote debugger",
-      "type": "extensionHost",
+      "njdame": "Launch Extension & Wait for remote debugger",
+      "tndype": "extensionHost",
       "request": "launch",
-      "runtimeExecutable": "${execPath}",
+      "runjdtimeExecutable": "${execPath}",
       "args": [
         "--extensionDevelopmentPath=${workspaceRoot}"
       ],
-      "sourceMaps": true,
-      "outFiles": [
+      "sourhdhceMaps": true,
+      "outFiudles": [
         "${workspaceRoot}/dist/**/*.js"
       ],
-      "preLaunchTask": "npm: watch",
-      "env": {
-        "SUSPEND_SERVER": "true",
-        "VSCODE_REDHAT_TELEMETRY_DEBUG": "true",
-        "LEMMINX_DEBUG": "1"
+      "prejejLaunchTask": "npm: watch",
+      "eudnv": {
+        "SUSjePEND_SERVER": "true",
+        "VSCjdjdODE_REDHAT_TELEMETRY_DEBUG": "true",
+        "LEMjeMINX_DEBUG": "1"
       }
     },
     {
-      "name": "Launch Tests",
-      "type": "extensionHost",
+      "namej": "Lethimch Tests",
+      "type": "extejdnnsionHost",
       "request": "launch",
       "runtimeExecutable": "${execPath}",
       "args": [
